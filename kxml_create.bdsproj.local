@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020.04.24 12:26:30.966.pas,C:\Users\Александр\Documents\Borland Studio Projects\Unit1.pas=C:\git-clone\pr-004\Unit1.pas</Transaction>
+    <Transaction>2020.04.24 12:26:30.967.dfm,C:\Users\Александр\Documents\Borland Studio Projects\Unit1.dfm=C:\git-clone\pr-004\Unit1.dfm</Transaction>
+    <Transaction>2020.04.24 12:26:33.726.bdsproj,C:\Users\Александр\Documents\Borland Studio Projects\Project1.bdsproj=C:\git-clone\pr-004\Project1.bdsproj</Transaction>
+    <Transaction>2020.04.24 12:29:24.662.bdsproj,C:\git-clone\pr-004\Project1.bdsproj=C:\git-clone\pr-004\kxml_create.bdsproj</Transaction>
+    <Transaction>2020.04.24 12:29:31.942.pas,C:\git-clone\pr-004\Unit1.pas=C:\git-clone\pr-004\MainForm.pas</Transaction>
+    <Transaction>2020.04.24 12:29:31.942.dfm,C:\git-clone\pr-004\Unit1.dfm=C:\git-clone\pr-004\MainForm.dfm</Transaction>
+    <Transaction>2020.04.24 12:29:52.044.pas,C:\git-clone\pr-004\Unit2.pas=C:\git-clone\pr-004\F_gps_add.pas</Transaction>
+    <Transaction>2020.04.24 12:29:52.044.dfm,C:\git-clone\pr-004\Unit2.dfm=C:\git-clone\pr-004\F_gps_add.dfm</Transaction>
+    <Transaction>2020.04.24 12:30:12.788.pas,C:\git-clone\pr-004\F_gps_add.pas=C:\git-clone\pr-004\F01_gps_add.pas</Transaction>
+    <Transaction>2020.04.24 12:30:12.788.dfm,C:\git-clone\pr-004\F_gps_add.dfm=C:\git-clone\pr-004\F01_gps_add.dfm</Transaction>
+    <Transaction>2020.04.24 15:06:18.875.pas,C:\git-clone\pr-004\Unit1.pas=C:\git-clone\pr-004\F02_gate_add.pas</Transaction>
+    <Transaction>2020.04.24 15:06:18.875.dfm,C:\git-clone\pr-004\Unit1.dfm=C:\git-clone\pr-004\F02_gate_add.dfm</Transaction>
+    <Transaction>2020.04.27 15:10:12.416.pas,C:\git-clone\pr-004\Unit1.pas=C:\git-clone\pr-004\F03_show.pas</Transaction>
+    <Transaction>2020.04.27 15:10:12.416.dfm,C:\git-clone\pr-004\Unit1.dfm=C:\git-clone\pr-004\F03_show.dfm</Transaction>
+    <Transaction>2020.06.11 09:03:19.201.pas,C:\git-clone\pr-004\Unit1.pas=C:\git-clone\pr-004\math_map.pas</Transaction>
+  </Transactions>
+</BorlandProject>
